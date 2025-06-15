@@ -1,0 +1,4 @@
+Write a concise 3–4 sentence professional summary for a resume. Use the following details:
+Skills: {{skills}}
+Experience: {{experience}}
+Target Role: {{target_job_roles}}
