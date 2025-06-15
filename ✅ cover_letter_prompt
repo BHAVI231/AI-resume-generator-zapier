@@ -1,0 +1,5 @@
+Write a short and personalized cover letter (max 200 words) for a {{target_job_roles}} role using:
+Skills: {{skills}}
+Experience: {{experience}}
+Education: {{education}}
+Format it formally.
