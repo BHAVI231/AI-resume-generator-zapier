@@ -1,0 +1,52 @@
+# 🧠 AI Resume & Cover Letter Generator using Zapier + OpenAI + Google Docs
+
+This project automatically generates a personalized resume and cover letter using a Google Form, Zapier, OpenAI (ChatGPT), Google Docs, and Gmail.
+
+### 🚀 How It Works
+1. Candidate fills out a **Google Form** with their details
+2. **Zapier** triggers OpenAI (ChatGPT) to generate:
+   - Professional summary
+   - Cover letter
+3. Zapier fills a **Google Docs** template with the data and AI outputs
+4. Zapier converts it to PDF and sends it to the candidate via **Gmail**
+
+---
+
+### 🧰 Tech Stack
+
+- ✅ Google Forms (for input)
+- ✅ Zapier (automation)
+- ✅ OpenAI GPT (text generation)
+- ✅ Google Docs (template)
+- ✅ Gmail (email delivery)
+
+---
+
+### 🧠 AI Prompts Used
+
+- `prompts/resume_summary_prompt.txt`
+- `prompts/cover_letter_prompt.txt`
+
+---
+
+### 📂 Sample Files
+
+- `form-template.png` – Google Form used
+- `google-docs-template.png` – Resume template with placeholders
+- `zapier-workflow-steps.png` – Zapier automation setup
+- `docs/sample-output.pdf` – Example output sent to candidate
+
+---
+
+### 💡 Use Case
+
+This is helpful for:
+- Resume-building tools
+- AI-powered job application services
+- Career consultants
+- University job cells
+
+---
+
+### 🙋‍♂️ Created by [Bhavesh Kalluru](https://www.linkedin.com/in/bhaveshkalluru/)
+
